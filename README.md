@@ -66,4 +66,4 @@ await main(videoUrls, articleUrl);
 - Open a Pull Request
 
 ## License
-This project is licensed under the [LICENSE](https://github.com/0xichikawa/Youtube-video-analyzer/blob/master/LICENSE) - see the LICENSE file for details.
+This project is licensed under the [LICENSE](https://github.com/BigData5911/youtube-video-anlayzer/blob/master/LICENSE) - see the LICENSE file for details.
